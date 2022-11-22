@@ -1,1 +1,1 @@
-0x09-static_libraries
+getting to understand static libraries and functions
